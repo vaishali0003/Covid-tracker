@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.table{
+  box-shadow: 0px -8px 10px 0px rgba(0,0,0,0.15); 
+}
+.main1{
+  padding: 10px 30px;
+}
+.active:hover{
+background-color: orange;
+}
+.conf:hover{
+background-color: rgba(255, 238, 0, 0.808);
+}
+.recovered:hover{
+background-color: rgba(78, 175, 78, 0.781);
+}
+.deaths:hover{
+  background-color: rgba(218, 45, 45, 0.575);
+}
